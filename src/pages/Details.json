@@ -1,0 +1,44 @@
+{
+  "id": "HTL-001",
+  "title": "Deluxe Living Room",
+  "price": {
+    "original_price": "2200.00 RS",
+    "discount": "30%",
+    "discounted_price": "1725.00 RS"
+  },
+  "description": "A luxurious hotel room designed for your ultimate comfort. Includes modern amenities such as free WiFi, air conditioning, a flat-screen TV, and a mini-bar. Perfect for both business and leisure stays.",
+  "size": ["Single", "Double", "Triple"],
+  "color": "Neutral tones with modern décor",
+  "serial_no": "HTL-DELUXE-001",
+  "category": "Luxury Rooms",
+  "tags": ["Hotel Room", "Deluxe", "Comfort", "Luxury Stay"],
+  "share": {
+    "facebook": "https://facebook.com/share?url=example.com",
+    "twitter": "https://twitter.com/share?url=example.com",
+    "whatsapp": "https://wa.me/?text=example.com"
+  },
+  "review": [
+    {
+      "rating": 5,
+      "comment": "An excellent stay! The room was clean and the staff were very friendly.",
+      "reviewer": "Alice B."
+    },
+    {
+      "rating": 4,
+      "comment": "Loved the ambiance and service. Would visit again!",
+      "reviewer": "Rahul S."
+    }
+  ],
+  "additional_information": {
+    "check_in_time": "12:00 PM",
+    "check_out_time": "11:00 AM",
+    "facilities": [
+      "Free WiFi",
+      "24/7 Room Service",
+      "Swimming Pool",
+      "Fitness Center"
+    ],
+    "policies": "No smoking in rooms. Pets are not allowed. Free cancellation within 24 hours."
+  },
+  "image": "https://example.com/images/deluxe-room.jpg"
+}
